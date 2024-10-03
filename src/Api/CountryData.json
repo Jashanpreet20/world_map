@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "interestingFact": "China is the world's most populous country and the third-largest by total area."
+    },
+    {
+      "id": 2,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1407563842,
+      "interestingFact": "India is the world's largest democracy and has more than 1,600 languages spoken across the country."
+    },
+    {
+      "id": 3,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 332915073,
+      "interestingFact": "The U.S. has the largest economy in the world, making up about a quarter of the global GDP."
+    },
+    {
+      "id": 4,
+      "countryName": "Indonesia",
+      "capital": "Jakarta",
+      "population": 276361783,
+      "interestingFact": "Indonesia is the largest archipelago in the world, with over 17,000 islands."
+    },
+    {
+      "id": 5,
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "population": 231403573,
+      "interestingFact": "Pakistan is home to the world's second-highest mountain, K2, in the Karakoram Range."
+    },
+    {
+      "id": 6,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": 214326223,
+      "interestingFact": "Brazil is the largest country in South America and has the world's largest rainforest, the Amazon."
+    },
+    {
+      "id": 7,
+      "countryName": "Nigeria",
+      "capital": "Abuja",
+      "population": 223804632,
+      "interestingFact": "Nigeria is the most populous country in Africa and has one of the largest economies on the continent."
+    },
+    {
+      "id": 8,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 144104080,
+      "interestingFact": "Russia is the largest country in the world by land area, covering more than 11% of Earth's landmass."
+    }
+  ]
+  
